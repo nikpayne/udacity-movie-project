@@ -1,4 +1,4 @@
-# Movie Project
+# Fresh Tomatoes!
 
 ## Description
 Fresh Tomatoes! is a Python application that allows you to view and watch a list of movie trailers.
